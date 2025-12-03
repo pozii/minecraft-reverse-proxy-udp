@@ -166,5 +166,5 @@ Licensed under the Apache License 2.0.
 ---
 
 <p align="center">
-<sub>Made with ❤️ by LogicByte Dev Services</sub>
+<sub>Made with ❤️ by LogicByte Limited</sub>
 </p>
